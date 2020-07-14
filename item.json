@@ -1,0 +1,24 @@
+{
+  "task": [
+    {
+      "checkbox": true,
+      "topic": "Проснуться",
+      "id": 1
+    },
+    {
+      "checkbox": false,
+      "topic": "Умыться",
+      "id": 2
+    },
+    {
+      "checkbox": false,
+      "topic": "Сделать зарядку",
+      "id": 3
+    },
+    {
+      "checkbox": true,
+      "topic": "Task",
+      "id": 4
+    }
+  ]
+}
